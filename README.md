@@ -3,7 +3,7 @@ Hello!
 I love JurassicWorld123's Paper Minecraft (link below), but enchantments are a bit frustrating.
 You can only find Enchanted Books in dungeon chests, so it's pretty hard to get the enchants you want.
 Becuase I'm too stupid to add an Enchanting Table, I made recipes to craft the books.
-Give me feedback for balancing changes I should make! Load the save code at the bottom to
+Give me feedback for balancing changes I should make! Use the save code in the "world_Save.md" file to
 see the recipes.
 
 How to use:
